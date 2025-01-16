@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime as dt
 # Load the CSV file
-df = pd.read_csv('C:\\Users\\24009620\\downloads\\CSV\\Task4A.csv', index_col='ID')
+df = pd.read_csv('FILE_PATH_HERE', index_col='ID')
 # Main menu
 def menu():
 print("\t\t****MAIN MENU****")
